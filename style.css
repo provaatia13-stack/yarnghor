@@ -185,4 +185,14 @@ footer {
 body {
   margin: 0;
 }
+a {
+  color: #7a4a2e;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 
